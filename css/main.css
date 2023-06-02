@@ -11,7 +11,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+  font-family: 'Roboto', Helvetica, sans-serif; /*change the stick no bills font as its not user friendly and hard to read*/
 }
 
 .container {
